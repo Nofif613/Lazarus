@@ -1,10 +1,10 @@
 # Lazarus V0
 ## Program descriotion
-** This program is freeze process when you open triger process** 
+**This program is freeze process when you open triger process** 
 ## Instruction:
-**1. Enter time after which game window will open **
+**1. Enter time after which game window will open**
 
-**2. Open game window **
+**2. Open game window**
 
 **3. Enter time after which trash window will open**
 
@@ -12,8 +12,8 @@
 ** 4. Open trash window **
 # Another my programs:
 ## Lazarus- 
-** https://github.com/Nofif613/Lazarus-**
+**https://github.com/Nofif613/Lazarus-**
 ## LazarusUniversal
-** https://github.com/Nofif613/LazarusUniversal**
+**https://github.com/Nofif613/LazarusUniversal**
 ## File Read Write
-** https://github.com/Nofif613/File-read-write**
+**https://github.com/Nofif613/File-read-write**
