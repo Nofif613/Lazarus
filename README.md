@@ -9,7 +9,7 @@
 **3. Enter time after which trash window will open**
 
 
-** 4. Open trash window **
+**4. Open trash window**
 # Another my programs:
 ## Lazarus- 
 **https://github.com/Nofif613/Lazarus-**
