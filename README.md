@@ -11,6 +11,7 @@
 
 **4. Open trash window**
 # Another my programs:
+## Official releas of Lazarus https://github.com/Nofif613/Lazarus-release
 ## Lazarus- 
 **https://github.com/Nofif613/Lazarus-**
 ## LazarusUniversal
